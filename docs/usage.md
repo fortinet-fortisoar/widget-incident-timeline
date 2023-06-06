@@ -39,5 +39,5 @@ Following sections display the edit view and the timeline graph using example va
 
 ## Next Steps
 
-| [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) |
-|----------------------------------------------|------------------------------------------------|
+| [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) |
+|-----------------------------------------|-------------------------------------------|
