@@ -1,14 +1,14 @@
 # Version Information
 
-**Version**: 1.0.1
+- **Version**: 1.0.1
 
-**Certified**: No
+- **Certified**: No
 
-**Publisher**: Fortinet  
+- **Publisher**: Fortinet  
 
-**Compatibility**: 7.2.0 and later  
+- **Compatibility**: 7.2.0 and later  
 
-**Applicable**: Reports and View Panel
+- **Applicable**: Reports and View Panel
 
 - [Release Notes](./release_notes.md)
 

@@ -28,5 +28,5 @@ Provide the following details to customize the Incident Timeline widget to suit 
 | Alerts - Event Color Field          | Select the field (picklist field) of the alert using whose value the data cards' get highlighted, if the selected field's options contain defined color codes. For example, if you select **Severity**, and if the Severity picklist has defined color codes for its options, then the data cards' get highlighted with the severity that is set for that correlated alert, i.e., the data card of an alert whose severity is set to 'Critical' is highlighted in the 'red' color.                                                  |
 | Indicators - Event Color Field      | Select the field (picklist field) of the indicator using whose value the data cards' get highlighted, if the selected field's options contain defined color codes. For example, if you select **Reputation**, and if the Reputation picklist has defined color codes for its options, then the data cards' get highlighted with the reputation that is set for that correlated indicator, i.e., the data card of an indicator whose reputation field is set to 'No Reputation Available' is highlighted in the 'light green' color. |
 
-| [Usage](./docs/usage.md) |
-|--------------------------|
+| [Usage](./usage.md) |
+|---------------------|
